@@ -1,0 +1,5 @@
+javascript
+SQL injection
+1993
+Objects.equals()
+20000000000000

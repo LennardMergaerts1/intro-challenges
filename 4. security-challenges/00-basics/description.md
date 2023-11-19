@@ -40,7 +40,7 @@ Thoughout these challenges we will introduce you to the field of cyber security.
 ## 3. Challenge
 
 Complete the following free rooms on "Try Hack Me": 
-- https://tryhackme.com/room/securityawarenessintro 
+- https://tryhackme.com/room/securityawarenessintro
 - https://tryhackme.com/room/principlesofsecurity
 
 Create a textfile solution.txt in the directory of this file. Answer the following questions (a new line for each answer) and push your solution to your GitHub repository:
